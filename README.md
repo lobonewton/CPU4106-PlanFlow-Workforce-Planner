@@ -1,5 +1,13 @@
 # PlanFlow
 
+**Individual project copy: Newton Lobo — G1407919**
+
+CPU4106 Group Project. This repository is Newton Lobo’s individual copy of the collaboratively developed PlanFlow application. Newton’s recorded group role is front-end development.
+
+Group repository: https://github.com/DragosGhimboase/CPU4106-PlanFlow-Workforce-Planner
+
+Individual repository: https://github.com/lobonewton/CPU4106-PlanFlow-Workforce-Planner
+
 A working local Daily Workload and Staffing Planner for the group computing project. Uses HTML, CSS, JavaScript, Python, Flask, MySQL (when connected) and locally bundled Chart.js. A SQLite demo allows it to run before MySQL login. All operational records are fictional.
 
 ## Start on this laptop
@@ -76,7 +84,7 @@ Use parameterised database queries in future changes. Mutation requests need the
 ## Team and assignment evidence
 
 Ajiton Estibeiro: Scrum coordination, UX research and Penpot design.
-Newton Lobo: front end.
+Newton Lobo (G1407919): front end.
 Ioan-Dragos Ghimboase: Python calculations and back end.
 Marcos Pereira: requirements prioritisation, MySQL, reports and testing.
 
